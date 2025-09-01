@@ -36,10 +36,10 @@ Clone the repository and run the project:
 
 ```bash
 # Clone repo
-git clone https://github.com/your-username/file-handling-project.git
+git clone https://github.com/tapand3v3lop3r/File-Handling-Project.git
 
 # Navigate into project
-cd file-handling-project/src
+cd file-handling-project
 
 # Run the script
 python file_manager.py
